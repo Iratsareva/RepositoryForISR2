@@ -12,5 +12,10 @@ public class Main {
         for (int i =0; i<3;i++){
             System.out.print(i);
         }
+
+        System.out.println();
+        System.out.println("Выполнил:");
+        System.out.println("Царева И.Д.");
+        System.out.println("УВП-311");
     }
 }
