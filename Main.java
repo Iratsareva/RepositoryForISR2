@@ -15,5 +15,7 @@ class Main{
 
         System.out.println();
         System.out.println("Выполнил:" + "Царева И.Д. " + "УВП-311");
+
+        System.out.println("Задание 3. Вносим изменения в ветке main");
     }
 }
