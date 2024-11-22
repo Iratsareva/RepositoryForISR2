@@ -12,5 +12,8 @@ class Main{
         for(int i=0; i<6;i++){
             System.out.print(i);
         }
+
+        System.out.println();
+        System.out.println("Выполнил:" + "Царева И.Д. " + "УВП-311");
     }
 }
